@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah, Currently working on my final year project!
+- 👀 I’m interested in Upcoming Technologies
+- 🌱 I’m currently learning Cyber Security and Blockchain technology
+- 💞️ I’m looking to collaborate with Developers
